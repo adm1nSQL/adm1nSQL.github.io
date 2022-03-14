@@ -6,3 +6,6 @@
     Let`s go~ 
 
         have fun！  
+
+
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=adm1nSQL&theme=radical) 
