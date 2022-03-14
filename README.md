@@ -8,7 +8,9 @@
         have fun！  
 
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=adm1nSQL&theme=radical) 
+![](https://uploadfile.huiyi8.com/up/4e/65/b3/4e65b36af8b5602bb73ac8c81bab08e7.png)
+
+
 
 
 
@@ -16,9 +18,3 @@
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=adm1nSQL&show_icons=true&theme=radical) 
 
 
-
-
-
-
-
-![](https://uploadfile.huiyi8.com/up/4e/65/b3/4e65b36af8b5602bb73ac8c81bab08e7.png)
