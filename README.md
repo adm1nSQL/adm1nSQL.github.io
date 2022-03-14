@@ -8,7 +8,7 @@
         have fun！  
 
 
-#无图标版![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=adm1nSQL&theme=radical) 
+`无图标版`![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=adm1nSQL&theme=radical) 
 
 
 
